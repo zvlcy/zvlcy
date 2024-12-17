@@ -1,6 +1,6 @@
 ## salam 👋
 juggling work, laziness, life, sanity and upskilling myself 😴
-building [zvlcy.my](https://zvlcy.my) 🔜
+building [zvlcy.my](https://zvlcy.my) 🔜 48:39 🤲🏼
 
 <!--
 **zvlcy/zvlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
