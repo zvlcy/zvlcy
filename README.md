@@ -1,6 +1,6 @@
-## Hi there 👋
-## I'm currently trying to balance work, life and upskilling myself while at the same time staying sane
-## Building zvlcy.my 🔜
+## hi there 👋
+## juggling work, laziness, life, sanity and upskilling myself 😴
+## building zvlcy.my 🔜
 
 <!--
 **zvlcy/zvlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
